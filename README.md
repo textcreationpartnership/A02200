@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-M. Some laid open in his coulers VVherein the indifferent reader may easily see, hovve vvretchedly a
+
+1. To the Reader.
+
 #####Body#####
-M. Some laid open in his coulers VVherein the indifferent reader may easily see, hovve vvretchedly a
+
+1. M. Some laid open in his coulers.
+
 **Types of content**
 
   * There are 4 **verse** lines!
